@@ -1,0 +1,155 @@
+===================================
+BASIC JAVA PROGRAMS
+===================================
+Fibonacci Series
+Prime Number Program
+Palindrome Program
+Factorial Program
+Armstrong Number
+Generate a Random Number
+Right Right Angle Triangle
+Left Right Angle Triangle
+Equilateral Triangle
+Inverse Triangle
+Inverse Right Right Angle Triangle
+Inverse Left Right Angle Triangle
+Pascal's Triangle
+Triangle with only Prime Numbers
+Compare two Objects in Java
+Print an ASCII Value of input
+===================================
+Number Programs
+===================================
+Reverse a Number
+Convert a Number to Word
+AutoMorphic Number in Java
+Sunny Number in Java
+Tech Number in Java
+Fascinating Number in Java
+Keith Number in Java
+Spy Number in Java
+ATM Program 
+AutoBiographical Number in Java
+Emirp number in Java
+Sphenic Number in Java
+Buzz Number in Java
+Duck Number in java
+Evil Number 
+ISBN Number 
+Krishnamurthy / Strong Number
+Bouncy Number
+Mystery Number
+Smith Number
+Strontio Number
+Xylem Number and Phloem Number
+Nth Prime Number 
+Display Alternate Prime Numbers
+find Square root of a number without SQRT method
+Swap two numbers using Bitwise Operator
+GCD
+Largest of three Numbers
+Smallest of Three Numbers by ternary Operator
+Find perfect Square or not
+Find the sum of natural Numbers
+===================================
+Array Programs
+===================================
+Copy all elements from one array to another array
+Find Frequency of each element in array
+Left Rotate the elements of an array
+print the duplicate elements of array
+print elements of an array
+Print elements in reverse order
+print elements of array present in even position
+print elements of an array in Odd Position
+Print Largest Element in array
+print smallest element in array
+Print the Number of elements present in array
+Print the sum of all elements in an array
+Right Rotate the elements of an array
+Sort the elements oof an array in ascending order
+Sort the elements of an array in descending order
+find the 3rd largest number in array
+find the nth largest number in array
+find the largest Number in array
+find the 2nd smallesst Number in an array
+find the smallest number in an array
+Remove the Duplicate Element in array
+Print Odd Even Numbers from array
+Sort an array in Java
+===================================
+Matrix Programs
+===================================
+Add two matrices
+Multiply two matrices
+determine two matrices are equal
+Frequency of odd and even numbers in the matrix
+product of two matrices
+sum of each row and each column in a Matrix
+Transpose of a Matrix
+Find if a Matrix is Identity Matrix
+Sparse Matrix
+===================================
+String Programs
+===================================
+Character Count
+Total Number of Special Characters in a String
+Consonants in a String
+Anagram
+Divide the String in N Equal Parts
+Subsets of Striing
+Longest Repeating sequence in a String
+all Permutations of a String
+Remove Spaces from a String
+Lowercase to Upper Case
+Uppercase to Lower case
+Replace spaces of a string with given character
+String Palindrome
+Rotation String
+Maximum and Minimum Occuring Character in a String
+Find Duplicate Characters in a String
+Duplicate Words in a String. 
+Frequency of Characters. 
+Largest and Smallest word in a String. 
+Most Repeated word in a text file. 
+Number of Words in given Text file. 
+Separate individual charaters from a string. 
+swap two string variables without using third or temp variable.
+smallest and biggest possible palindrome word in a given string. 
+Reverse String word by word. 
+Reverse without Reverse() function.
+===================================
+Searching and Sorting Programs
+===================================
+Linear Search
+Binary Search 
+Bubble Sort
+Selection Sort
+Insertion Sort
+===================================
+Type Programs
+===================================
+Date to Time Stamp
+Time stamp to Date
+Binary to Decimal
+Decimal to Binary
+Hex to Decimal
+Decimal to Hex
+Octal to Decimal
+Decimal to Octal
+===================================
+Patterns Programs
+===================================
+Spiral Pattern
+two Number triangles in inverse and  club both triangles to form a square
+three triangles, one right angle left to right, one inverse equilateral triangle, one right angle triangle right to left, club to one square.
+Print tables from one to N
+Print Tables in form of right angle triangle
+AND MULTIPLE PATTERN PROGRAMS. 
+===================================
+Lists Programs
+===================================
+Atleast one Single Linked Lists Program
+Atleast One Double Linked List Program
+One Circular Linked List Program
+One Tree Program
