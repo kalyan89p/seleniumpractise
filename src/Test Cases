@@ -1,0 +1,9 @@
+Test case: Login to Box.com
+
+Step 1: Launch Browser with "https://www.box.com"
+Step 2: click on Login Button
+Step 3: Enter email address
+Step 4: click Next
+Step 5: Enter Password
+Step 6: click Login
+Step 7: look for Profile Icon
