@@ -24,7 +24,5 @@ public class JavaProgs extends webElements {
 		driver.findElement(By.xpath(Password)).sendKeys("Admin@123");
 		driver.findElement(By.xpath(Submit)).click();
 		driver.findElement(By.xpath(ProfileIcon));
-	
-		
 	}
 }
