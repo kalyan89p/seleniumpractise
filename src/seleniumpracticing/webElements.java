@@ -1,5 +1,7 @@
 package seleniumpracticing;
 
+import org.openqa.selenium.By;
+
 public class webElements {
 	
 	static String LoginButtonHomePage = "//a[contains(text(),'Log in')]";
@@ -9,5 +11,5 @@ public class webElements {
 	static String Submit = "//button[@id='login-submit-password']";
 	static String ProfileIcon = "//div[@class='ProfileButton-avatar']/div/span/span";
 	
-
+	By loginbuttonHomePage = new By.ByXPath(LoginButtonHomePage);
 }
