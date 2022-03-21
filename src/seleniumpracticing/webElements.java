@@ -11,5 +11,10 @@ public class webElements {
 	static String Submit = "//button[@id='login-submit-password']";
 	static String ProfileIcon = "//div[@class='ProfileButton-avatar']/div/span/span";
 	
-	By loginbuttonHomePage = new By.ByXPath(LoginButtonHomePage);
+	static By loginbuttonHomePage = new By.ByXPath(LoginButtonHomePage);
+	static By emialid = new By.ByXPath(EmailID);
+	static By loginbutton = new By.ByXPath(LoginButton);
+	static By password = new By.ByXPath(Password);
+	static By submit = new By.ByXPath(Submit);
+	static By profileicon = new By.ByXPath(ProfileIcon);
 }

@@ -17,13 +17,15 @@ public class JavaProgs extends webElements {
 		 wait = new WebDriverWait(driver, 10);
 		driver.get("https://www.box.com/home");
 		driver.manage().window().maximize();
-		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(LoginButtonHomePage)));
-		driver.findElement(By.xpath(LoginButtonHomePage)).click();
-		driver.findElement(By.xpath(EmailID)).sendKeys("kalyan89p@gmail.com");
-		driver.findElement(By.xpath(LoginButton)).click();
-		driver.findElement(By.xpath(Password)).sendKeys("Admin@123");
-		driver.findElement(By.xpath(Submit)).click();
-		driver.findElement(By.xpath(ProfileIcon));
 		
+		wait.until(ExpectedConditions.visibilityOfElementLocated(loginbuttonHomePage));
+		driver.findElement(loginbuttonHomePage).click();
+		
+		driver.findElement(emialid).sendKeys("kalyan89p@gmail.com");
+		driver.findElement(loginbutton).click();
+		driver.findElement(password).sendKeys("Admin@123");
+		driver.findElement(submit).click();
+		driver.findElement(profileicon);
+				
 	}
 }
