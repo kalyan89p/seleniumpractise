@@ -1,6 +1,7 @@
 package seleniumpracticing;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 
 public class webElements {
 	
@@ -11,10 +12,14 @@ public class webElements {
 	static String Submit = "//button[@id='login-submit-password']";
 	static String ProfileIcon = "//div[@class='ProfileButton-avatar']/div/span/span";
 	
-	static By loginbuttonHomePage = new By.ByXPath(LoginButtonHomePage);
-	static By emialid = new By.ByXPath(EmailID);
-	static By loginbutton = new By.ByXPath(LoginButton);
-	static By password = new By.ByXPath(Password);
-	static By submit = new By.ByXPath(Submit);
-	static By profileicon = new By.ByXPath(ProfileIcon);
+	By loginbuttonHomePage = new By.ByXPath(LoginButtonHomePage);
+	 By emialid = new By.ByXPath(EmailID);
+	 By loginbutton = new By.ByXPath(LoginButton);
+	 By password = new By.ByXPath(Password);
+	 By submit = new By.ByXPath(Submit);
+	 By profileicon = new By.ByXPath(ProfileIcon);
+
+
+
+	 
 }
