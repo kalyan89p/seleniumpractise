@@ -9,8 +9,9 @@ public class pageActions {
 
 	WebDriver driver;
 	WebDriverWait wait;
-	pageActions(WebDriver driver){
+	pageActions(WebDriver driver, WebDriverWait wait){
 		this.driver = driver;
+		this.wait = wait;
 	}
 
 	public void click(By we) {
@@ -23,9 +24,8 @@ public class pageActions {
 		driver.findElement(we).sendKeys(text);
 	}
 	
-	public void wait(By we) {
-		wait.until(ExpectedConditions.visibilityOfElementLocated(we.loginbuttonHomePage));
-		
+	public void wait(By Element) {
+		wait.until(ExpectedConditions.visibilityOfElementLocated(Element));
 	}
 	
 	

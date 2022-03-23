@@ -19,7 +19,5 @@ public class webElements {
 	 By submit = new By.ByXPath(Submit);
 	 By profileicon = new By.ByXPath(ProfileIcon);
 
-
-
 	 
 }
