@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20068" started-at="2022-03-24T02:37:42Z" finished-at="2022-03-24T02:38:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20068" started-at="2022-03-24T02:37:42Z" finished-at="2022-03-24T02:38:02Z">
+      <class name="seleniumpracticing.launch">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:seleniumpracticing.launch@186dec2]" name="launchBrowser" duration-ms="11624" started-at="2022-03-24T08:07:42Z" finished-at="2022-03-24T08:07:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="afirsttestcase()[pri:0, instance:seleniumpracticing.launch@186dec2]" name="afirsttestcase" duration-ms="8408" started-at="2022-03-24T08:07:53Z" depends-on-methods="seleniumpracticing.launch.launchBrowser" finished-at="2022-03-24T08:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afirsttestcase -->
+      </class> <!-- seleniumpracticing.launch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
